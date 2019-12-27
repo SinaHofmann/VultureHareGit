@@ -6,13 +6,10 @@ using UnityEngine.UI;
 public class PickUpItem : MonoBehaviour
 {
 
-   // private GameObject UICounter;
     private bool pickUpAllowed;
 
-    
-    //void Start ()
-    //UICounter = GameObject.Find("Instatiate").GetComponent<UICounter>();}
-    
+    public Image Auge;
+    public bool collided = false;
 
 
     private void Update () {
@@ -22,11 +19,14 @@ public class PickUpItem : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        
         if (collision.gameObject.name.Equals("Player")) 
         {
            
             pickUpAllowed = true;
+        
         }
+        
     }
 
     void OnTriggerExit2D(Collider2D collision)
@@ -40,6 +40,10 @@ public class PickUpItem : MonoBehaviour
 
     void PickUp()
     {
+        //if (Auge != null)
+        //{
+            Auge.gameObject.SetActive(true);
+        //}
         Destroy(gameObject);
     }
 }
