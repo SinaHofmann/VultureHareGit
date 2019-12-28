@@ -9,7 +9,7 @@ public class PickUpItem : MonoBehaviour
     private bool pickUpAllowed;
 
     public Image Auge;
-    public bool collided = false;
+    // public bool collided = false;
 
 
     private void Update () {

@@ -4,18 +4,14 @@ using UnityEngine;
 
 public class SpawnHare : MonoBehaviour
 {
-    public Transform Spawnpoint;
-    public GameObject Hare;
+     public GameObject Hare;
 
-
-    
-    void OnTriggerEnter2D (Collider2D collision)
-    {
-        if (collision.gameObject.name.Equals("Player"))
-        {
+   void OnTriggerEnter2D(Collider2D collision)
+   {
+      if (collision.gameObject.name.Equals("Player"))
+      {
+           Hare.gameObject.SetActive(true);
            
-           Instantiate(Hare, Spawnpoint.position, Spawnpoint.rotation);  
-        }
-       
-    }
+      }
+   }
 }
