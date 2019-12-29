@@ -47,9 +47,10 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Areas\DespawnArea.cs" />
      <Compile Include="Assets\Scripts\Areas\SpawnArea.cs" />
+     <Compile Include="Assets\Scripts\Characters\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\Characters\SpawnHare.cs" />
+     <Compile Include="Assets\Scripts\PickUp\HinweisTextMitte.cs" />
      <Compile Include="Assets\Scripts\PickUp\PickUpItem.cs" />
-     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
-     <Compile Include="Assets\Scripts\Player\SpawnHare.cs" />
      <Compile Include="Assets\Scripts\Sound\PlaySoundContinously.cs" />
      <Compile Include="Assets\Scripts\SwitchScenes\GoToFirstScene.cs" />
      <Compile Include="Assets\Scripts\SwitchScenes\MainMenu.cs" />

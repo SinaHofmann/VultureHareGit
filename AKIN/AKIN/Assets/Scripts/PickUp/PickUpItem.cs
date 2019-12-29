@@ -9,6 +9,13 @@ public class PickUpItem : MonoBehaviour
     private bool pickUpAllowed;
 
     public Image Auge;
+
+    public Text Gedanke;
+
+    public float lifetime;
+
+
+
     // public bool collided = false;
 
 
@@ -35,15 +42,22 @@ public class PickUpItem : MonoBehaviour
         {
           
             pickUpAllowed = false;
+
+            
         }
     }
 
     void PickUp()
     {
-        //if (Auge != null)
-        //{
+        
             Auge.gameObject.SetActive(true);
-        //}
-        Destroy(gameObject);
-    }
+
+            Gedanke.gameObject.SetActive(true);
+
+    
+         Destroy(gameObject);
+
+         Destroy(Gedanke.gameObject, lifetime);
+        
+    }  
 }
