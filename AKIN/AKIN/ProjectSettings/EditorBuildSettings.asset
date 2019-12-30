@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AkinMain.unity
     guid: 30011750eba20d94fa6e6ef079f7c99b
+  - enabled: 1
+    path: Assets/Scenes/Enddialog.unity
+    guid: c0a404e97c5eb7546b058be35c4deb33
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
