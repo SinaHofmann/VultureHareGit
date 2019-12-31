@@ -2,12 +2,15 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - DespawnArea
+    - DialogueManager
+    - DialogueTrigger
     - GoToFirstScene
     - HinweisTextMitte
     - MainMenu
     - PickUpItem
     - PlaySoundContinously
     - PlayerController
+    - SchriftHinweis
     - SpawnArea
     - SpawnHare
     Cinemachine.dll:
@@ -81,25 +84,78 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10148}
     - Class: 114
-      Script: {instanceID: 10404}
+      Script: {instanceID: 10394}
     - Class: 114
-      Script: {instanceID: 10422}
+      Script: {instanceID: 10410}
     - Class: 114
-      Script: {instanceID: 10706}
+      Script: {instanceID: 10428}
     - Class: 114
-      Script: {instanceID: 11120}
+      Script: {instanceID: 10518}
     - Class: 114
-      Script: {instanceID: 11164}
+      Script: {instanceID: 10714}
     - Class: 114
-      Script: {instanceID: 11394}
+      Script: {instanceID: 11130}
     - Class: 114
-      Script: {instanceID: 11500}
+      Script: {instanceID: 11174}
     - Class: 114
-      Script: {instanceID: 11608}
+      Script: {instanceID: 11404}
     - Class: 114
-      Script: {instanceID: 11770}
+      Script: {instanceID: 11510}
     - Class: 114
-      Script: {instanceID: 23870}
+      Script: {instanceID: 11618}
+    - Class: 114
+      Script: {instanceID: 11780}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/Enddialog.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9698}
+    - Class: 114
+      Script: {instanceID: 9880}
+    - Class: 114
+      Script: {instanceID: 9928}
+    - Class: 114
+      Script: {instanceID: 10150}
+    - Class: 114
+      Script: {instanceID: 10292}
+    - Class: 114
+      Script: {instanceID: 10382}
+    - Class: 114
+      Script: {instanceID: 10836}
+    - Class: 114
+      Script: {instanceID: 11404}
+    - Class: 114
+      Script: {instanceID: 11806}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -142,13 +198,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9946}
     - Class: 114
-      Script: {instanceID: 10378}
+      Script: {instanceID: 10382}
     - Class: 114
-      Script: {instanceID: 10826}
+      Script: {instanceID: 10836}
     - Class: 114
-      Script: {instanceID: 11394}
+      Script: {instanceID: 11404}
     - Class: 114
-      Script: {instanceID: 11796}
+      Script: {instanceID: 11806}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -195,21 +251,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9970}
     - Class: 114
-      Script: {instanceID: 10378}
+      Script: {instanceID: 10382}
     - Class: 114
-      Script: {instanceID: 10406}
+      Script: {instanceID: 10412}
     - Class: 114
-      Script: {instanceID: 10826}
+      Script: {instanceID: 10836}
     - Class: 114
-      Script: {instanceID: 11086}
+      Script: {instanceID: 11096}
     - Class: 114
-      Script: {instanceID: 11102}
+      Script: {instanceID: 11112}
     - Class: 114
-      Script: {instanceID: 11394}
+      Script: {instanceID: 11404}
     - Class: 114
-      Script: {instanceID: 11578}
+      Script: {instanceID: 11588}
     - Class: 114
-      Script: {instanceID: 11796}
+      Script: {instanceID: 11806}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -413,6 +469,12 @@ ScriptsOnlyBuild:
     className: PlayerController
   - hash:
       serializedVersion: 2
+      Hash: 27c30076a5bc55c98768bb0208945c50
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DialogueTrigger
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -443,6 +505,12 @@ ScriptsOnlyBuild:
     className: Mask
   - hash:
       serializedVersion: 2
+      Hash: bef70252fa8aa61d7fa373494a55527b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DialogueManager
+  - hash:
+      serializedVersion: 2
       Hash: caa533b001ae39b864ba8425019e2268
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -465,6 +533,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 11bdd61587db747672b66c52442395d8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HinweisTextMitte
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -507,6 +581,12 @@ ScriptsOnlyBuild:
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
     className: CinemachinePOV
+  - hash:
+      serializedVersion: 2
+      Hash: 007d72f5a046d1de9b4ffd51757b6e1d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SchriftHinweis
   - hash:
       serializedVersion: 2
       Hash: b3ab2106268377ffe25dd18ac23dca28
@@ -915,15 +995,10 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 11bdd61587db747672b66c52442395d8
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: HinweisTextMitte
   platform: 5
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Intro.unity
   - Assets/Scenes/AkinMain.unity
-  playerPath: F:/Unity/AKIN/AKIN/Builds/20191228_Build/AKIN.exe
+  - Assets/Scenes/Enddialog.unity
+  playerPath: F:/Unity/AKIN/AKIN/Builds/20191231_Build/AKIN.exe
