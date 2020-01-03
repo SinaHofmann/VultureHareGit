@@ -2,12 +2,21 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class SpawnHare : MonoBehaviour
 {
      public GameObject Hare;
 
+   
 
+
+   void Update ()
+
+   {
+
+    
+   }
    void OnTriggerEnter2D(Collider2D collision)
    {
       

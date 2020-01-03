@@ -53,9 +53,10 @@
      <Compile Include="Assets\Scripts\Dialogue\DialogueManager.cs" />
      <Compile Include="Assets\Scripts\Dialogue\DialogueTrigger.cs" />
      <Compile Include="Assets\Scripts\PickUp\HinweisTextMitte.cs" />
+     <Compile Include="Assets\Scripts\PickUp\LoreText.cs" />
      <Compile Include="Assets\Scripts\PickUp\PickUpItem.cs" />
-     <Compile Include="Assets\Scripts\PickUp\SchriftHinweis.cs" />
      <Compile Include="Assets\Scripts\Sound\PlaySoundContinously.cs" />
+     <Compile Include="Assets\Scripts\SwitchScenes\EndGame.cs" />
      <Compile Include="Assets\Scripts\SwitchScenes\GoToFirstScene.cs" />
      <Compile Include="Assets\Scripts\SwitchScenes\MainMenu.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />

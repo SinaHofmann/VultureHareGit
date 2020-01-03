@@ -8,11 +8,8 @@ public class PlayerController : MonoBehaviour
     public float jumpheight = 10f;
     private float horizontalInput;
     private float verticalInput;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+
+
 
     // Update is called once per frame
     void FixedUpdate()
@@ -22,5 +19,20 @@ public class PlayerController : MonoBehaviour
 
         transform.Translate(Vector2.right * horizontalInput * Time.deltaTime * speed);
         transform.Translate(Vector2.up * verticalInput * Time.deltaTime * jumpheight);
+    
+    
+       if(horizontalInput < 0)
+       {
+           this.GetComponent<SpriteRenderer>().flipX = true;
+       }else
+       {
+        this.GetComponent<SpriteRenderer>().flipX = false;
+       }
+       
+    
+    
     }
+
+
+
 }
