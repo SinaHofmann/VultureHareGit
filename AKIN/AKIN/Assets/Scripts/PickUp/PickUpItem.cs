@@ -14,14 +14,16 @@ public class PickUpItem : MonoBehaviour
 
     public float lifetime;
 
-
-
-    // public bool collided = false;
-
-
+     void Start ()
+     {
+        
+     }
+     
     private void Update () {
         if (pickUpAllowed && Input.GetKeyDown(KeyCode.E))
             PickUp();
+
+       
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -60,4 +62,7 @@ public class PickUpItem : MonoBehaviour
          Destroy(Gedanke.gameObject, lifetime);
         
     }  
+
+   
+
 }
