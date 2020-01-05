@@ -14,9 +14,11 @@ public class PickUpItem : MonoBehaviour
 
     public float lifetime;
 
+    private Collectables collectablesScript;
+
      void Start ()
      {
-        
+        collectablesScript = GameObject.Find("Player").GetComponent<Collectables>();
      }
      
     private void Update () {
@@ -55,6 +57,9 @@ public class PickUpItem : MonoBehaviour
             Auge.gameObject.SetActive(true);
 
             Gedanke.gameObject.SetActive(true);
+
+            collectablesScript.myNewInt++;
+            Debug.Log("Item wurde aufgehoben und PickUpVariable ist:" + collectablesScript.myNewInt);
 
     
          Destroy(gameObject);

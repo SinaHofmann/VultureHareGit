@@ -8,23 +8,41 @@ public class Collectables : MonoBehaviour
     public int myNewInt = 0;
 
     public Collider2D SpawnHare;
-    
+
     void Start ()
     {
-        
-        myNewInt++;
+        myNewInt = 0;
 
+        SpawnHare.gameObject.SetActive(false);
+
+    
+    }
+
+    void Update ()
+    {
         if(myNewInt == 10)
         {
-           SpawnHare.gameObject.SetActive(true);
-        
-        }else
-        {
-            SpawnHare.gameObject.SetActive(false);
+            SpawnHare.gameObject.SetActive(true);
+            Debug.Log("SpawnHare ist erschienen - Die PickUpVariable zeigt:" + myNewInt);
         }
 
-        
     }
+
+
+
+       
+        
+
+        
+        
+        
+
+        
+
+        
+
+        
+    
 
 
 }

@@ -764,7 +764,7 @@ GameObject:
   - component: {fileID: 209746745}
   m_Layer: 5
   m_Name: U
-  m_TagString: Untagged
+  m_TagString: Collectables
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1291,7 +1291,7 @@ GameObject:
   - component: {fileID: 312191229}
   m_Layer: 5
   m_Name: L
-  m_TagString: Untagged
+  m_TagString: Collectables
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2421,7 +2421,7 @@ GameObject:
   - component: {fileID: 590945027}
   m_Layer: 5
   m_Name: L
-  m_TagString: Untagged
+  m_TagString: Collectables
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3317,6 +3317,26 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 710067896}
   m_CullTransparentMesh: 0
+--- !u!1 &718511750 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1963285882429214798, guid: f898b981987c7ee45bec66c2f66636fc,
+    type: 3}
+  m_PrefabInstance: {fileID: 3417246465610819771}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &718511751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 718511750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb53828964c14941aed48fa589ef294, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myNewInt: 0
+  SpawnHare: {fileID: 1634969971}
 --- !u!1 &719586699
 GameObject:
   m_ObjectHideFlags: 0
@@ -4037,7 +4057,7 @@ GameObject:
   - component: {fileID: 838433884}
   m_Layer: 5
   m_Name: 'L '
-  m_TagString: Untagged
+  m_TagString: Collectables
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4596,7 +4616,7 @@ GameObject:
   - component: {fileID: 960428630}
   m_Layer: 5
   m_Name: R
-  m_TagString: Untagged
+  m_TagString: Collectables
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6318,7 +6338,7 @@ GameObject:
   - component: {fileID: 1220122486}
   m_Layer: 5
   m_Name: 'U '
-  m_TagString: Untagged
+  m_TagString: Collectables
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6426,7 +6446,7 @@ GameObject:
   - component: {fileID: 1232005009}
   m_Layer: 5
   m_Name: U
-  m_TagString: Untagged
+  m_TagString: Collectables
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6838,7 +6858,7 @@ GameObject:
   - component: {fileID: 1323414536}
   m_Layer: 5
   m_Name: U
-  m_TagString: Untagged
+  m_TagString: Collectables
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8120,7 +8140,7 @@ GameObject:
   - component: {fileID: 1632156589}
   m_Layer: 5
   m_Name: 'R '
-  m_TagString: Untagged
+  m_TagString: Collectables
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9307,7 +9327,7 @@ GameObject:
   - component: {fileID: 1922382418}
   m_Layer: 5
   m_Name: L
-  m_TagString: Untagged
+  m_TagString: Collectables
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
