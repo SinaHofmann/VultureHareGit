@@ -10,7 +10,7 @@ public class PickUpItem : MonoBehaviour
 
     public Image Auge;
 
-    public Text Gedanke;
+    public Image Gedanke;
 
     public float lifetime;
 
