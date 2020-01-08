@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: be5c69358ae91d64ca91ad46a07a131e
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5261921717324922897
+    second: Vulture_Fall_Spritesheet_0
+  - first:
+      213: 2707737247307561622
+    second: Vulture_Fall_Spritesheet_1
+  - first:
+      213: -7952706012325803330
+    second: Vulture_Fall_Spritesheet_2
+  - first:
+      213: 6073386515862212417
+    second: Vulture_Fall_Spritesheet_3
+  - first:
+      213: 3202456537242330642
+    second: Vulture_Fall_Spritesheet_4
+  - first:
+      213: 3837059232243747113
+    second: Vulture_Fall_Spritesheet_5
+  - first:
+      213: -2406132750429410617
+    second: Vulture_Fall_Spritesheet_6
+  - first:
+      213: 1605007568809274391
+    second: Vulture_Fall_Spritesheet_7
+  - first:
+      213: 6760221250402363515
+    second: Vulture_Fall_Spritesheet_8
+  - first:
+      213: -7040946998461627554
+    second: Vulture_Fall_Spritesheet_9
+  - first:
+      213: -915298108705543984
+    second: Vulture_Fall_Spritesheet_10
+  - first:
+      213: 6532602777280864183
+    second: Vulture_Fall_Spritesheet_11
+  - first:
+      213: -3368872685560443336
+    second: Vulture_Fall_Spritesheet_12
+  - first:
+      213: -1186496400585032436
+    second: Vulture_Fall_Spritesheet_13
+  - first:
+      213: 653337823311572289
+    second: Vulture_Fall_Spritesheet_14
+  - first:
+      213: 519091689558762776
+    second: Vulture_Fall_Spritesheet_15
+  - first:
+      213: 4023570604413489667
+    second: Vulture_Fall_Spritesheet_16
+  - first:
+      213: -7941098792097018972
+    second: Vulture_Fall_Spritesheet_17
+  - first:
+      213: 6144100294937545878
+    second: Vulture_Fall_Spritesheet_18
+  - first:
+      213: -5946476341857695889
+    second: Vulture_Fall_Spritesheet_19
+  - first:
+      213: -5339215112062698214
+    second: Vulture_Fall_Spritesheet_20
+  - first:
+      213: 882971527119498246
+    second: Vulture_Fall_Spritesheet_21
+  - first:
+      213: 8981283886768608102
+    second: Vulture_Fall_Spritesheet_22
+  - first:
+      213: 1517135101276059363
+    second: Vulture_Fall_Spritesheet_23
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +112,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +142,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423608dd8ac2d9c49b4aead3bce48f63
+      internalID: 5261921717324922897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d912b5d42f15f49bfefa084c3f8376
+      internalID: 2707737247307561622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d56766a6b89b499d1cc08d098e662
+      internalID: -7952706012325803330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a37ca004cfab94f9ae48d2f9cfd062
+      internalID: 6073386515862212417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7056b9bf19fa3b549b0b33119ddb829c
+      internalID: 3202456537242330642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007dde5b0b1257b4e8a6379f0fd51eb1
+      internalID: 3837059232243747113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e20f25c132a70644a79c50e70478b36
+      internalID: -2406132750429410617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77476aae665c0fd44abb4e98fb9d5fc7
+      internalID: 1605007568809274391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b9d241f3dfdf4bbc3ff7986c2bf93
+      internalID: 6760221250402363515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6437ff7bcdd9eec4e95b97037a253f5b
+      internalID: -7040946998461627554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c3bc31d6343cb418500e17d8e883dd
+      internalID: -915298108705543984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f0b9f66f6d15046a4c4c58632ef7cc
+      internalID: 6532602777280864183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bf13e36a0c1654f965db5dac83505c
+      internalID: -3368872685560443336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa64f7c8ca6ac944975197c5aec0621
+      internalID: -1186496400585032436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c47896bc23c2de4782d744e246def78
+      internalID: 653337823311572289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63273d55d645b6046ab5623abde58694
+      internalID: 519091689558762776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fac38a6897a394449ceaea2c1026a21
+      internalID: 4023570604413489667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e283d5dda3c74a4a85f213ab53992c8
+      internalID: -7941098792097018972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e65219016e3c74d9b7c2662b7bfb83
+      internalID: 6144100294937545878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f888f5b8811ca5649a049a0710c5ace5
+      internalID: -5946476341857695889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efba2c9249916347bad6c42b93db17b
+      internalID: -5339215112062698214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67db1fd102b6fd140913b19ef83312a0
+      internalID: 882971527119498246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1151958b97a3944a585bdaebd17bde
+      internalID: 8981283886768608102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Fall_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4308a57b7006fc343b916e0267dbd34d
+      internalID: 1517135101276059363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

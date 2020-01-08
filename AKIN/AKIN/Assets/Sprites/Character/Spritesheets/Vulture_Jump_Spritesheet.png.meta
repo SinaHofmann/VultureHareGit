@@ -1,7 +1,115 @@
 fileFormatVersion: 2
 guid: 011394b01f3f3c343a4323166c018904
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -946100352897364081
+    second: Vulture_Jump_Spritesheet_0
+  - first:
+      213: -4638354504145717613
+    second: Vulture_Jump_Spritesheet_1
+  - first:
+      213: -7759520310579390422
+    second: Vulture_Jump_Spritesheet_2
+  - first:
+      213: -7471853299601295337
+    second: Vulture_Jump_Spritesheet_3
+  - first:
+      213: 3357435299902556249
+    second: Vulture_Jump_Spritesheet_4
+  - first:
+      213: 5252509966463886420
+    second: Vulture_Jump_Spritesheet_5
+  - first:
+      213: -7305351977686697483
+    second: Vulture_Jump_Spritesheet_6
+  - first:
+      213: -1509060044819982060
+    second: Vulture_Jump_Spritesheet_7
+  - first:
+      213: 5735884022152897760
+    second: Vulture_Jump_Spritesheet_8
+  - first:
+      213: 8283333318845024495
+    second: Vulture_Jump_Spritesheet_9
+  - first:
+      213: -8379051583200238767
+    second: Vulture_Jump_Spritesheet_10
+  - first:
+      213: -8807809472434061824
+    second: Vulture_Jump_Spritesheet_11
+  - first:
+      213: 890381154975924653
+    second: Vulture_Jump_Spritesheet_12
+  - first:
+      213: 5884260307638371032
+    second: Vulture_Jump_Spritesheet_13
+  - first:
+      213: -2007391170786233715
+    second: Vulture_Jump_Spritesheet_14
+  - first:
+      213: -2851440631503353248
+    second: Vulture_Jump_Spritesheet_15
+  - first:
+      213: -4777581851900399156
+    second: Vulture_Jump_Spritesheet_16
+  - first:
+      213: 8238085288081160734
+    second: Vulture_Jump_Spritesheet_17
+  - first:
+      213: 1201113750685435646
+    second: Vulture_Jump_Spritesheet_18
+  - first:
+      213: 809201282124350085
+    second: Vulture_Jump_Spritesheet_19
+  - first:
+      213: 6429465468394678032
+    second: Vulture_Jump_Spritesheet_20
+  - first:
+      213: 6550585125107499991
+    second: Vulture_Jump_Spritesheet_21
+  - first:
+      213: -8397875345068434781
+    second: Vulture_Jump_Spritesheet_22
+  - first:
+      213: -1121100709031405160
+    second: Vulture_Jump_Spritesheet_23
+  - first:
+      213: -7390379098696113657
+    second: Vulture_Jump_Spritesheet_24
+  - first:
+      213: -3370236201334578263
+    second: Vulture_Jump_Spritesheet_25
+  - first:
+      213: 1266172387979988399
+    second: Vulture_Jump_Spritesheet_26
+  - first:
+      213: 5990536689357027918
+    second: Vulture_Jump_Spritesheet_27
+  - first:
+      213: 6684247683563242563
+    second: Vulture_Jump_Spritesheet_28
+  - first:
+      213: 8621508686270343883
+    second: Vulture_Jump_Spritesheet_29
+  - first:
+      213: 1646546027211781264
+    second: Vulture_Jump_Spritesheet_30
+  - first:
+      213: -4794855046428940992
+    second: Vulture_Jump_Spritesheet_31
+  - first:
+      213: 6338424736368584943
+    second: Vulture_Jump_Spritesheet_32
+  - first:
+      213: 8857023361723560046
+    second: Vulture_Jump_Spritesheet_33
+  - first:
+      213: -8289458586995871413
+    second: Vulture_Jump_Spritesheet_34
+  - first:
+      213: 6474302163062199452
+    second: Vulture_Jump_Spritesheet_35
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +148,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +178,777 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8018a0fa6d7a7824cbebb7be424a00ed
+      internalID: -946100352897364081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1401f89a32e734fbe0e3610db2fc94
+      internalID: -4638354504145717613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d379d3d6325c7844696863b507bd6e7d
+      internalID: -7759520310579390422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53595977b8912e43a4f238b388cf8cf
+      internalID: -7471853299601295337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359b4a5867338c4da43bbb0396ba3bd
+      internalID: 3357435299902556249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e871bff9bac8f5c4db6fe3a55ee9986d
+      internalID: 5252509966463886420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a409948d7efcdce4c963ae9f8370ed86
+      internalID: -7305351977686697483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee85842e1c51f54780e733e82a897e2
+      internalID: -1509060044819982060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dd753d516f97942826488a2eac1af2
+      internalID: 5735884022152897760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f0eb661c3134d4187704d7adfb235a
+      internalID: 8283333318845024495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a92001fad9b1e41ad533b37098e49e
+      internalID: -8379051583200238767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57440c482d39484ca98f82c3e3a9195
+      internalID: -8807809472434061824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0cb706b6c260d47b02eceb0eeedaca
+      internalID: 890381154975924653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7df413b7e14214fbb95e2429ad96e8
+      internalID: 5884260307638371032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8151041627dc6f44a861b8548c18d22a
+      internalID: -2007391170786233715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cf63f7ac366c04a91239ef0dbae78f
+      internalID: -2851440631503353248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b297752222de38429a24fac6f72e9ed
+      internalID: -4777581851900399156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1992a00417b92b34aaddc3ea96aeb44d
+      internalID: 8238085288081160734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3af7dd87f76044782688126676244b
+      internalID: 1201113750685435646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e438674e4eebbc64c800b1e7272c6125
+      internalID: 809201282124350085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bd0e3a977d9e1499e3931e7c688925
+      internalID: 6429465468394678032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c295451c129cd409cb9f776fc056a1
+      internalID: 6550585125107499991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99af4415a83e541bc5fe0a3ea2e6f6
+      internalID: -8397875345068434781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5813158a79f059a4f8f441b555893605
+      internalID: -1121100709031405160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d4788664d19f44384bc090f9a0626a
+      internalID: -7390379098696113657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d5ee039ba07a9428848c1a9ee40e59
+      internalID: -3370236201334578263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f750feaa94e541a48b87e615e4fe4181
+      internalID: 1266172387979988399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f72f46026d2f4e928f15b63f4b488
+      internalID: 5990536689357027918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5179d9a44d181d43815ccbb853f1262
+      internalID: 6684247683563242563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c97ead99d28c48bbcbe802132e37d
+      internalID: 8621508686270343883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e327dc358649d4cbfb9d7eca663a3f
+      internalID: 1646546027211781264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6879e7957a39b76428c3b75aefbed4b5
+      internalID: -4794855046428940992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc421c1ff043bb4cb87abb5bbd64a65
+      internalID: 6338424736368584943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3487b494046ac44b361426927cbac4
+      internalID: 8857023361723560046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fb1b3ef42d58d4b842222f4245a7c5
+      internalID: -8289458586995871413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Jump_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7527e8cabbbff9742b50c61ef245a77a
+      internalID: 6474302163062199452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

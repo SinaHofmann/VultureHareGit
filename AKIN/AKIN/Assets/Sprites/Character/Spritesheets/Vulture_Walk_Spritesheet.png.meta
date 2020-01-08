@@ -1,7 +1,106 @@
 fileFormatVersion: 2
 guid: 8756b7ed85d4dde4c8d22a8c496ef9d4
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5069513257601019958
+    second: Vulture_Walk_Spritesheet_0
+  - first:
+      213: 1923421086729806569
+    second: Vulture_Walk_Spritesheet_1
+  - first:
+      213: 658883680317580171
+    second: Vulture_Walk_Spritesheet_2
+  - first:
+      213: 828944963337775119
+    second: Vulture_Walk_Spritesheet_3
+  - first:
+      213: 6257245007029723107
+    second: Vulture_Walk_Spritesheet_4
+  - first:
+      213: -8613068269818317853
+    second: Vulture_Walk_Spritesheet_5
+  - first:
+      213: 973540903165570503
+    second: Vulture_Walk_Spritesheet_6
+  - first:
+      213: -1940645092636429164
+    second: Vulture_Walk_Spritesheet_7
+  - first:
+      213: -7729380151868756633
+    second: Vulture_Walk_Spritesheet_8
+  - first:
+      213: 3461379062242052046
+    second: Vulture_Walk_Spritesheet_9
+  - first:
+      213: 6082139840102144027
+    second: Vulture_Walk_Spritesheet_10
+  - first:
+      213: 3133855715315686917
+    second: Vulture_Walk_Spritesheet_11
+  - first:
+      213: 3511609160394977721
+    second: Vulture_Walk_Spritesheet_12
+  - first:
+      213: 395904909365662489
+    second: Vulture_Walk_Spritesheet_13
+  - first:
+      213: 385870452570252223
+    second: Vulture_Walk_Spritesheet_14
+  - first:
+      213: -6303147490115502047
+    second: Vulture_Walk_Spritesheet_15
+  - first:
+      213: 2284175401629517571
+    second: Vulture_Walk_Spritesheet_16
+  - first:
+      213: 4886103370046761414
+    second: Vulture_Walk_Spritesheet_17
+  - first:
+      213: -8457235377361235749
+    second: Vulture_Walk_Spritesheet_18
+  - first:
+      213: 2050211590883130266
+    second: Vulture_Walk_Spritesheet_19
+  - first:
+      213: -1385164179699894127
+    second: Vulture_Walk_Spritesheet_20
+  - first:
+      213: -5523474690659713522
+    second: Vulture_Walk_Spritesheet_21
+  - first:
+      213: -1256039981479171635
+    second: Vulture_Walk_Spritesheet_22
+  - first:
+      213: 9111543159091414009
+    second: Vulture_Walk_Spritesheet_23
+  - first:
+      213: 2424250491756734507
+    second: Vulture_Walk_Spritesheet_24
+  - first:
+      213: -8458611182813640645
+    second: Vulture_Walk_Spritesheet_25
+  - first:
+      213: -6391643435932665818
+    second: Vulture_Walk_Spritesheet_26
+  - first:
+      213: -2333011732337568825
+    second: Vulture_Walk_Spritesheet_27
+  - first:
+      213: -8033767612229574471
+    second: Vulture_Walk_Spritesheet_28
+  - first:
+      213: 5894490592490329741
+    second: Vulture_Walk_Spritesheet_29
+  - first:
+      213: 8423835384903595208
+    second: Vulture_Walk_Spritesheet_30
+  - first:
+      213: 4640956571775719809
+    second: Vulture_Walk_Spritesheet_31
+  - first:
+      213: -2403353434366283470
+    second: Vulture_Walk_Spritesheet_32
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +139,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +169,714 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b70ed18f86ddb64683c4d8a989c050e
+      internalID: 5069513257601019958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a9bca4427d7af478b53f066adcb138
+      internalID: 1923421086729806569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edcd6df201b34746ac14cf5ffd4d31d
+      internalID: 658883680317580171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610c1ef5940bd0144a01cd500c1f85f1
+      internalID: 828944963337775119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d96e9fcfc83c04ea3834cbcf5383a9
+      internalID: 6257245007029723107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26130bef18380b4cad44e3523136101
+      internalID: -8613068269818317853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3700cdccabd0d4fae5196e46c0f21c
+      internalID: 973540903165570503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6121f2b12b03f554d96a30918b0ca07b
+      internalID: -1940645092636429164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c6575667bc07f46836890a1e4acb81
+      internalID: -7729380151868756633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ce8d6299e32f64298fd946e57db03c
+      internalID: 3461379062242052046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c4e21f095cd9247905682f7d638562
+      internalID: 6082139840102144027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 2034
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac16a0b782bd904793c15e328eb1227
+      internalID: 3133855715315686917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3e377af01c4af44bc9f0725d216903
+      internalID: 3511609160394977721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa1c963b41ac5f458fcaea0daa0b275
+      internalID: 395904909365662489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cff0b447dc99c44accfc4dc6af5e32
+      internalID: 385870452570252223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb72b8e51ca1e1742a87899ac71aef64
+      internalID: -6303147490115502047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8b6e3b5493ccd45b0623e331797b5b
+      internalID: 2284175401629517571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613730e4ca9d7924bbbcef04b29a098e
+      internalID: 4886103370046761414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6121b7f732250d48951ce854c9b2686
+      internalID: -8457235377361235749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0256e49726ef0841a32e66d9ee3f717
+      internalID: 2050211590883130266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0414bdaece310d54f90f9ea964185b4f
+      internalID: -1385164179699894127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791f8aaf0f698147b775061900dcafe
+      internalID: -5523474690659713522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d27048a918c33b44939e476d7c78caf
+      internalID: -1256039981479171635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 1017
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5ec50d665acce4d9e0d4c5886b7588
+      internalID: 9111543159091414009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012a3bc1c1ad81240bcb3e93ce8f3207
+      internalID: 2424250491756734507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d9fd57dd7316245ac03d66c4d13089
+      internalID: -8458611182813640645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e682fa32587e28479c4e64c3b988064
+      internalID: -6391643435932665818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184584cf4dc856745b504bf7bbffb8fd
+      internalID: -2333011732337568825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4623eb9b172c4d4e9af2ea0e3dac088
+      internalID: -8033767612229574471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd18e9a95100ac469b9ae8925068546
+      internalID: 5894490592490329741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02fdb6814375b043ac1d7dc32796d79
+      internalID: 8423835384903595208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 5684
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffccc047f044a947a9f678e451ded32
+      internalID: 4640956571775719809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vulture_Walk_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 0
+        width: 812
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8e3f1ee76f32e4d9659e91d966572e
+      internalID: -2403353434366283470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
