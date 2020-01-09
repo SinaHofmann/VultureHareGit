@@ -715,12 +715,12 @@ PrefabInstance:
     - target: {fileID: 2076972091676752619, guid: 47f7b5bc08999954f87cb24737497763,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -89.693
+      value: -89.62
       objectReference: {fileID: 0}
     - target: {fileID: 2076972091676752619, guid: 47f7b5bc08999954f87cb24737497763,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 30.746
+      value: 32.56
       objectReference: {fileID: 0}
     - target: {fileID: 2076972091676752619, guid: 47f7b5bc08999954f87cb24737497763,
         type: 3}
@@ -1139,9 +1139,17 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 1.4652538, y: 1.3529301}
-      - {x: -4.5925674, y: 1.1849227}
-      - {x: -8.060041, y: 1.039751}
+    - - {x: 1.3867798, y: 2.059215}
+      - {x: 0.16660118, y: 2.0196662}
+      - {x: -1.5928402, y: 1.9812474}
+      - {x: -2.6176605, y: 1.8536749}
+      - {x: -3.005413, y: 1.7907472}
+      - {x: -3.7935162, y: 1.5243406}
+      - {x: -4.506916, y: 1.3455184}
+      - {x: -4.54974, y: 1.1635103}
+      - {x: -4.503042, y: 1.3383887}
+      - {x: -4.6188774, y: 1.3239005}
+      - {x: -8.06004, y: 1.1925635}
       - {x: -8.159346, y: -0.6420903}
       - {x: -5.619238, y: -0.59783745}
       - {x: -1.1682453, y: -0.8583689}
@@ -1557,7 +1565,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 144.5, y: -15.5}
+  m_AnchoredPosition: {x: 144.5, y: -16.2}
   m_SizeDelta: {x: 25, y: 15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &209746745
@@ -1902,12 +1910,12 @@ PrefabInstance:
     - target: {fileID: 2076972091676752619, guid: 47f7b5bc08999954f87cb24737497763,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -72.14
+      value: -76.62
       objectReference: {fileID: 0}
     - target: {fileID: 2076972091676752619, guid: 47f7b5bc08999954f87cb24737497763,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.56
+      value: 14.64
       objectReference: {fileID: 0}
     - target: {fileID: 2076972091676752619, guid: 47f7b5bc08999954f87cb24737497763,
         type: 3}
@@ -3361,7 +3369,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 446d4cb400879e94797102ec155d82a7, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.33962262, g: 0.33962262, b: 0.33962262, a: 0.7490196}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -3471,7 +3479,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 170.5, y: -15.5}
+  m_AnchoredPosition: {x: 170.5, y: -20.2}
   m_SizeDelta: {x: 25, y: 15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &590945027
@@ -3690,7 +3698,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 633327401}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -89.441, y: 10.0763, z: -109.86279}
+  m_LocalPosition: {x: -89.26, y: -1.91, z: -109.86279}
   m_LocalScale: {x: 0.080899194, y: 0.080899194, z: 0}
   m_Children: []
   m_Father: {fileID: 1098573904}
@@ -3774,7 +3782,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 446d4cb400879e94797102ec155d82a7, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.2735849, g: 0.2735849, b: 0.2735849, a: 0.7058824}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -3967,7 +3975,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f02df580d25b4640af4d1a13aa29aa3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 15
+  speed: 13
   jumpheight: 45
 --- !u!95 &718511757
 Animator:
@@ -4983,7 +4991,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 118.5, y: -15.5}
+  m_AnchoredPosition: {x: 116.2, y: -22.2}
   m_SizeDelta: {x: 25, y: 15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &960428630
@@ -6175,8 +6183,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -131.1, y: -14.434937}
-  m_SizeDelta: {x: 262.19, y: 28.869995}
+  m_AnchoredPosition: {x: -134.78, y: -14.434937}
+  m_SizeDelta: {x: 269.55, y: 28.87}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1198177790
 MonoBehaviour:
@@ -6328,7 +6336,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 222.5, y: -15.5}
+  m_AnchoredPosition: {x: 222.5, y: -19.5}
   m_SizeDelta: {x: 25, y: 15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1220122486
@@ -6401,7 +6409,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 40.5, y: -15.5}
+  m_AnchoredPosition: {x: 39.2, y: -24.5}
   m_SizeDelta: {x: 25, y: 15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1232005009
@@ -7171,7 +7179,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 92.5, y: -15.5}
+  m_AnchoredPosition: {x: 88.5, y: -15.8}
   m_SizeDelta: {x: 25, y: 15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1323414536
@@ -7569,7 +7577,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1411263213}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 38.68, y: -40.34, z: -109.86279}
+  m_LocalPosition: {x: 41.25, y: -40.17, z: -109.86279}
   m_LocalScale: {x: 0.112031996, y: 0.108863994, z: 0}
   m_Children: []
   m_Father: {fileID: 2110952968}
@@ -7601,7 +7609,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -5.872476, y: 0}
+  m_Offset: {x: 5.987514, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -7612,7 +7620,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 22.059177, y: 8.27}
+  m_Size: {x: 19.902843, y: 8.27}
   m_EdgeRadius: 0
 --- !u!212 &1411263217
 SpriteRenderer:
@@ -7653,7 +7661,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 446d4cb400879e94797102ec155d82a7, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.33962262, g: 0.33962262, b: 0.33962262, a: 0.6784314}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -9075,7 +9083,8 @@ PolygonCollider2D:
       - {x: 9.399036, y: 5.7732477}
       - {x: 11.2631035, y: 5.8795285}
       - {x: 18.907177, y: 5.9856944}
-      - {x: 24.753075, y: 6.22306}
+      - {x: 26.066753, y: 5.8937287}
+      - {x: 27.768383, y: 6.38176}
       - {x: 13.472172, y: 6.2701416}
       - {x: 7.426655, y: 6.3468246}
       - {x: 5.8815193, y: 5.9557834}
@@ -9452,14 +9461,14 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: c1d367a4505c83d4ea2954834100ddf7, type: 3}
     m_FontSize: 14
     m_FontStyle: 0
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 10
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
     m_LineSpacing: 1.3
   m_Text: Return here, if you found all hints.   Then all you have to do, is follow
     them.  Look out for marks.
@@ -9487,9 +9496,9 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0.0000076293945, y: 22.5}
-  m_SizeDelta: {x: 486.18, y: 45}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.0000038146973, y: 43.1}
+  m_SizeDelta: {x: 487.02, y: 15.350006}
+  m_Pivot: {x: 0.5, y: 0}
 --- !u!1 &1778963809
 GameObject:
   m_ObjectHideFlags: 0
@@ -9634,7 +9643,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 66.5, y: -15.5}
+  m_AnchoredPosition: {x: 62.5, y: -16.8}
   m_SizeDelta: {x: 25, y: 15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1922382418
