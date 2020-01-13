@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class GoToFirstScene : MonoBehaviour
+
+public class GoToIntro : MonoBehaviour
 {
-    public void PlaySceneMitte ()
+ 
+    public void PlaySceneIntro ()
     {
-      SceneManager.LoadScene(3);
+      SceneManager.LoadScene(2);
     }
-    
-}   
+}

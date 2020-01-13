@@ -27,7 +27,7 @@ public class SpawnHare : MonoBehaviour
    }
    void LoadScene ()
    {
-      SceneManager.LoadScene(3);
+      SceneManager.LoadScene(4);
    }
 
 }
