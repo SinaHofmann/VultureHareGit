@@ -9,6 +9,9 @@ public class Collectables : MonoBehaviour
 
     public Collider2D SpawnHare;
 
+    public GameObject AugenLeuchten;
+    public GameObject AugenLeuchten2;
+
     void Start ()
     {
         myNewInt = 0;
@@ -22,6 +25,9 @@ public class Collectables : MonoBehaviour
     {
         if(myNewInt == 10)
         {
+            AugenLeuchten.gameObject.SetActive(true); 
+            AugenLeuchten2.gameObject.SetActive(true);
+
             SpawnHare.gameObject.SetActive(true);
             Debug.Log("SpawnHare ist erschienen - Die PickUpVariable zeigt:" + myNewInt);
         }

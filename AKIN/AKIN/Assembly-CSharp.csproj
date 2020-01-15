@@ -53,7 +53,7 @@
      <Compile Include="Assets\Scripts\PickUp\LoreText.cs" />
      <Compile Include="Assets\Scripts\PickUp\PickUpItem.cs" />
      <Compile Include="Assets\Scripts\PickUp\SchriftHinweis.cs" />
-     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerControllerV2.cs" />
      <Compile Include="Assets\Scripts\Player\SpawnHare.cs" />
      <Compile Include="Assets\Scripts\Sound\PlaySoundContinously.cs" />
      <Compile Include="Assets\Scripts\SwitchScenes\EndGame.cs" />
