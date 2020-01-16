@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Keyboard.unity
     guid: 01bad5989a99ae2419a5b7c2bafdd91c
   - enabled: 1
-    path: Assets/Scenes/Intro.unity
+    path: Assets/Scenes/Introscene.unity
     guid: 0ebaa9c66db195a43804e9b1a62366ae
   - enabled: 1
     path: Assets/Scenes/AkinMain.unity

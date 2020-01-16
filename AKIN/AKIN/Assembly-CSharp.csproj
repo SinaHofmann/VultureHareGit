@@ -57,7 +57,7 @@
      <Compile Include="Assets\Scripts\Player\SpawnHare.cs" />
      <Compile Include="Assets\Scripts\Sound\PlaySoundContinously.cs" />
      <Compile Include="Assets\Scripts\SwitchScenes\EndGame.cs" />
-     <Compile Include="Assets\Scripts\SwitchScenes\GoToFirstScene.cs" />
+     <Compile Include="Assets\Scripts\SwitchScenes\GoToAkinMain.cs" />
      <Compile Include="Assets\Scripts\SwitchScenes\GoToIntro.cs" />
      <Compile Include="Assets\Scripts\SwitchScenes\MainMenu.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />

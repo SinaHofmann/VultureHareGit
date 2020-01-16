@@ -4,14 +4,15 @@ ScriptsOnlyBuild:
     - Collectables
     - DespawnArea
     - EndGame
-    - GoToFirstScene
+    - GoToAkinMain
+    - GoToIntro
     - HinweisTextMitte
     - LevelTransition
     - LoreText
     - MainMenu
     - PickUpItem
     - PlaySoundContinously
-    - PlayerController
+    - PlayerControllerV2
     - SpawnArea
     - SpawnHare
     Cinemachine.dll:
@@ -33,10 +34,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -69,6 +68,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 61
       Script: {instanceID: 0}
+    - Class: 62
+      Script: {instanceID: 0}
     - Class: 70
       Script: {instanceID: 0}
     - Class: 74
@@ -86,7 +87,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9884}
     - Class: 114
-      Script: {instanceID: 9932}
+      Script: {instanceID: 9934}
     - Class: 114
       Script: {instanceID: 10248}
     - Class: 114
@@ -100,11 +101,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10518}
     - Class: 114
-      Script: {instanceID: 10714}
+      Script: {instanceID: 10674}
     - Class: 114
-      Script: {instanceID: 10744}
+      Script: {instanceID: 10716}
     - Class: 114
-      Script: {instanceID: 10776}
+      Script: {instanceID: 10746}
     - Class: 114
       Script: {instanceID: 11132}
     - Class: 114
@@ -114,11 +115,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11512}
     - Class: 114
-      Script: {instanceID: 11772}
+      Script: {instanceID: 11774}
     - Class: 114
-      Script: {instanceID: 11782}
+      Script: {instanceID: 11784}
     - Class: 114
-      Script: {instanceID: 11808}
+      Script: {instanceID: 11810}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -163,7 +164,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9838}
     - Class: 114
-      Script: {instanceID: 9932}
+      Script: {instanceID: 9934}
     - Class: 114
       Script: {instanceID: 10248}
     - Class: 114
@@ -186,7 +187,62 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 329
       Script: {instanceID: 0}
-    Assets/Scenes/Intro.unity:
+    Assets/Scenes/Introscene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9698}
+    - Class: 114
+      Script: {instanceID: 9922}
+    - Class: 114
+      Script: {instanceID: 9934}
+    - Class: 114
+      Script: {instanceID: 10248}
+    - Class: 114
+      Script: {instanceID: 10382}
+    - Class: 114
+      Script: {instanceID: 11406}
+    - Class: 114
+      Script: {instanceID: 11810}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 328
+      Script: {instanceID: 0}
+    - Class: 329
+      Script: {instanceID: 0}
+    Assets/Scenes/Keyboard.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -214,9 +270,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9884}
     - Class: 114
-      Script: {instanceID: 9932}
-    - Class: 114
-      Script: {instanceID: 9950}
+      Script: {instanceID: 9934}
     - Class: 114
       Script: {instanceID: 10248}
     - Class: 114
@@ -226,7 +280,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11406}
     - Class: 114
-      Script: {instanceID: 11808}
+      Script: {instanceID: 11550}
+    - Class: 114
+      Script: {instanceID: 11810}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -279,7 +335,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9884}
     - Class: 114
-      Script: {instanceID: 9932}
+      Script: {instanceID: 9934}
     - Class: 114
       Script: {instanceID: 9974}
     - Class: 114
@@ -299,9 +355,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11406}
     - Class: 114
-      Script: {instanceID: 11590}
+      Script: {instanceID: 11592}
     - Class: 114
-      Script: {instanceID: 11808}
+      Script: {instanceID: 11810}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -415,6 +471,12 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   - hash:
       serializedVersion: 2
+      Hash: 598cc4232bbc37bb94fab3b73999053d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GoToAkinMain
+  - hash:
+      serializedVersion: 2
       Hash: c80bc562de10fdbf8b2e9bcb89d80421
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
@@ -431,12 +493,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
     className: TestResultRendererCallback
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GoToFirstScene
   - hash:
       serializedVersion: 2
       Hash: 234235b9fb07320d11497e08a726cc56
@@ -667,6 +723,12 @@ ScriptsOnlyBuild:
     className: CinemachineDollyCart
   - hash:
       serializedVersion: 2
+      Hash: 3ab681203801cd651f560f78ccff890d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerControllerV2
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -691,7 +753,7 @@ ScriptsOnlyBuild:
     className: RemoteTestResultSender
   - hash:
       serializedVersion: 2
-      Hash: ca41d6d351d65d317bd00e36193f581e
+      Hash: 6548d41ce0746d4e701b90d9d5edcdd0
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Collectables
@@ -701,12 +763,6 @@ ScriptsOnlyBuild:
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
     className: CinemachinePath
-  - hash:
-      serializedVersion: 2
-      Hash: abee81a03fa14be1d7bb3f03609a72ba
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: PlayerController
   - hash:
       serializedVersion: 2
       Hash: 4fd8bf02e3089425d3502e26c44ba31a
@@ -913,6 +969,12 @@ ScriptsOnlyBuild:
     className: SpawnArea
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GoToIntro
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1046,7 +1108,8 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/Menu.unity
-  - Assets/Scenes/Intro.unity
+  - Assets/Scenes/Keyboard.unity
+  - Assets/Scenes/Introscene.unity
   - Assets/Scenes/AkinMain.unity
   - Assets/Scenes/Endscene.unity
-  playerPath: F:/Unity/AKIN/AKIN/Builds/20200109_Build/V3/AKIN.exe
+  playerPath: F:/Unity/AKIN/AKIN/Builds/20200116_Build/V2/AKIN.exe
